@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "Matcha",
+      "price": 1000,
+      "in_stock": true,
+      "sale_price": 800,
+      "sizes": [
+        "small",
+        "medium",
+        "large",
+        "extra_large"
+      ]
+    },
+    {
+      "name": "Black Tea",
+      "price": 600,
+      "in_stock": true,
+      "sale_price": null,
+      "sizes": [
+        "small",
+        "medium",
+        "large",
+        "extra_large"
+      ]
+    },
+    {
+      "name": "Green Tea",
+      "price": 500,
+      "in_stock": false,
+      "sale_price": null,
+      "sizes": [
+        "small",
+        "medium",
+        "large"
+      ]
+    }
+  ]
+}
