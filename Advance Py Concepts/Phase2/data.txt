@@ -1,0 +1,5 @@
+apple
+banana
+mango
+amrood
+Above are fruit names
